@@ -4,7 +4,7 @@
 Parents Advisor is a transformative tool in the realm of modern parenting. It combines scientific insight, education, and sheer fun, offering unparalleled support for today's parents. With Parents Advisor, parenting becomes a breeze, all powered by the magic of AI.
 
 
-## A description of my experience using AI to build the solution
+# A description of my experience using AI to build the solution
 With 17 years in SharePoint and expertise in Power Platform, I've spent the last year harnessing AI services like OpenAI's APIs, Azure OpenAI, and Azure Cognitive Services. To create "Parents Advisor" solution, my work started in Feburary when I first had the idea of using AI to assist parenting.
 
 # Why I chose to create the solution
@@ -16,3 +16,13 @@ AI played a revolutionary role in building apps including Parents Advisor. None 
 
 # Video Introduction
 Please click to watch on YouTube https://www.youtube.com/watch?v=BazEhB7AsCg
+
+# Technical Overview
+Foundation & Functionalities
+Parents Advisor is anchored on Azure OpenAI and OpenAI's API services, and engineered on Microsoft Power Platform. Leveraging prompt engineering and in-app user profiles, the solution offers dependable, tailored advice enriched by authoritative sources.
+
+AI Capabilities
+The platform boasts tailored advice via Artificial Intelligence (Azure OpenAI), voice-to-text (OpenAI whisper), and text-to-voice (Azure Cognitive speech) functionalities. It ensures age-aligned guidance and insights for young users.
+
+Language Proficiency
+With multi-lingual support, it translates across 59 languages and vocalises through over 450 intelligent voices spanning diverse languages, accents, and dialects.
