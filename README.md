@@ -11,3 +11,7 @@ As a parent myself, I've witnessed the challenges faced by modern parents who ju
 
 # How AI helped me build this solution
 AI is the backbone of "Parents Advisor." It powers tailored advice, multi-lingual support, and personalized engagement for children. From translations to intelligent voice interactions, AI has transformed the platform into a dynamic tool for parents.![image]
+
+
+#Video
+(https://www.youtube.com/watch?v=BazEhB7AsCg&t=1s&ab_channel=Channel)
