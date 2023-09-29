@@ -11,7 +11,7 @@ With 17 years in SharePoint and expertise in Power Platform, I've spent the last
 As a parent myself, I've witnessed the challenges faced by modern parents who juggle multiple roles. "Parents Advisor" captures the potential of AI to tackle these real-world issues, providing scientific parenting advice and engaging educational content for children.
 
 # How AI helped me build this solution
-AI is the backbone of "Parents Advisor." It powers tailored advice, multi-lingual support, and personalized engagement for children. From translations to intelligent voice interactions, AI has transformed the platform into a dynamic tool for parents.![image]
+AI is the backbone of "Parents Advisor." It powers tailored advice, multi-lingual support, and personalized engagement for children. From translations to intelligent voice interactions, AI has transformed the platform into a dynamic tool for parents.
 
 
 # Video
