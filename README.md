@@ -14,17 +14,5 @@ AI is the backbone of "Parents Advisor." It powers tailored advice, multi-lingua
 
 
 # Video
-([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=BazEhB7AsCg&t=1s&ab_channel=Channel) "Parents Advisor")
+[![Introducing Parents Advisor](https://github.com/Richardsprofile/ParentsAdvisor/assets/29499611/b7d4389b-e98e-4c8a-972e-c95c3cd6e204)](https://www.youtube.com/watch?v=BazEhB7AsCg)
 
-![Main Logo](https://github.com/Richardsprofile/ParentsAdvisor/assets/29499611/95ad39b4-ce5a-4454-9366-1ab45d5d3fe8)
-![YouTube Video Thumbnail](https://github.com/Richardsprofile/ParentsAdvisor/assets/29499611/b7d4389b-e98e-4c8a-972e-c95c3cd6e204)
-
-[<img src="https://github.com/Richardsprofile/ParentsAdvisor/assets/29499611/b7d4389b-e98e-4c8a-972e-c95c3cd6e204" width="50%">](https://www.youtube.com/watch?v=BazEhB7AsCg&t=1s&ab_channel=Channel "Parents Advisor")
-
-<a src="https://www.youtube.com/watch?v=BazEhB7AsCg" Title="Introducing Parents Advisor">
-<img src="https://github.com/Richardsprofile/ParentsAdvisor/assets/29499611/b7d4389b-e98e-4c8a-972e-c95c3cd6e204" width="50%">
-</a>
-
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://www.youtube.com/watch?v=BazEhB7AsCg)https://www.youtube.com/watch?v=BazEhB7AsCg)
