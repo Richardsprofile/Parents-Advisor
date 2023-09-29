@@ -5,7 +5,7 @@ Parents Advisor is a transformative tool in the realm of modern parenting. It co
 
 
 # A description of my experience using AI to build the solution
-With 17 years in SharePoint and expertise in Power Platform, I've spent the last year harnessing AI services like OpenAI's APIs, Azure OpenAI, and Azure Cognitive Services. As a Principal Consultant at Bluesource, I've melded my passion for Microsoft cloud technologies with AI to create "Parents Advisor."
+With 17 years in SharePoint and expertise in Power Platform, I've spent the last year harnessing AI services like OpenAI's APIs, Azure OpenAI, and Azure Cognitive Services. To create "Parents Advisor" solution, my work started in Feburary when I first had the idea of using AI to assist parenting.
 
 # Why I chose to create the solution
 As a parent myself, I've witnessed the challenges faced by modern parents who juggle multiple roles. "Parents Advisor" captures the potential of AI to tackle these real-world issues, providing scientific parenting advice and engaging educational content for children.
