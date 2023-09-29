@@ -26,3 +26,13 @@ The platform boasts tailored advice via Artificial Intelligence (Azure OpenAI), 
 
 Language Proficiency
 With multi-lingual support, it translates across 59 languages and vocalises through over 450 intelligent voices spanning diverse languages, accents, and dialects.
+
+# Tools used
+## Microsoft Power Platform
+### Power Apps
+### Power Automate
+## Microsoft Azure
+### Azure OpenAI
+### Azure Cognitive Speech Services
+## OpenAI
+### Whiper
