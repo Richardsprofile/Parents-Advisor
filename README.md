@@ -15,5 +15,4 @@ AI is the backbone of "Parents Advisor." It powers tailored advice, multi-lingua
 
 
 # Video
-[![Introducing Parents Advisor](https://github.com/Richardsprofile/ParentsAdvisor/assets/29499611/b7d4389b-e98e-4c8a-972e-c95c3cd6e204)](https://www.youtube.com/watch?v=BazEhB7AsCg)
-
+Please click to watch on YouTube https://www.youtube.com/watch?v=BazEhB7AsCg
