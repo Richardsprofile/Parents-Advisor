@@ -7,7 +7,7 @@ Parents Advisor is a transformative tool in the realm of modern parenting. It co
 Hello judges for 2023 Power Platform AI Hackathon, please get in touch for detailed evaluations of the solution. 
 
 ## Email me: <a href="Mailto:richard@richli.uk">Email me</a>
-## LinkedIn me: <a href="https://www.linkedin.com/in/richardlisprofile/">Linkedin</a>
+## LinkedIn me: <a href="https://www.linkedin.com/in/richardlisprofile/" target="_blank">Linkedin</a>
 
 # Video Introduction
 Please click to watch on YouTube https://www.youtube.com/watch?v=BazEhB7AsCg
