@@ -3,6 +3,11 @@
 
 Parents Advisor is a transformative tool in the realm of modern parenting. It combines scientific insight, education, and sheer fun, offering unparalleled support for today's parents. With Parents Advisor, parenting becomes a breeze, all powered by the magic of AI.
 
+# Contact the developer
+Hello judges for 2023 Power Platform AI Hackathon, please get in touch for detailed evaluations of the solution. 
+Email me: <a href="Mailto:richard@richli.uk">Email me</a>
+LinkedIn me: <a href="https://www.linkedin.com/in/richardlisprofile/">Linkedin</a>
+
 # Video Introduction
 Please click to watch on YouTube https://www.youtube.com/watch?v=BazEhB7AsCg
 
